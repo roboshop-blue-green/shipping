@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-env.COMPONENT="cart"
+env.COMPONENT="shipping"
 env.APP_TYPE="maven"
 mainCI()
 
